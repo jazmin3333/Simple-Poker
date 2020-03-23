@@ -1,3 +1,4 @@
+[![Run on Repl.it](https://repl.it/badge/github/jazmin3333/Simple-Poker)](https://repl.it/github/jazmin3333/Simple-Poker)
 Simple-Poker (Java)
 ===================
 
